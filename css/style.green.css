@@ -211,7 +211,7 @@ nav.navbar a.nav-link.active, nav.navbar a.nav-link:hover {
   margin-bottom: 20px;
 }
 
-.about-section .progress-title {
+.about-section .progress-title .skills-section {
   font-weight: 300;
   text-transform: uppercase;
   letter-spacing: 0.1em;
